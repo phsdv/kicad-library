@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP fsusb42
+D Low Power, Two-Port, Hi-Speed USB2.0 (480Mbps) Switch
+K USB2, USB switch
+F https://www.fairchildsemi.com/datasheets/FS/FSUSB42.pdf
+$ENDCMP
+#
+#End Doc Library

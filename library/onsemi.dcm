@@ -6,6 +6,42 @@ K ESD Protection diodes transient suppressor
 F http://www.onsemi.com/pub_link/Collateral/CM1213A-D.PDF
 $ENDCMP
 #
+$CMP LC717A30UJ
+D Capacitance-Digital-Converter for Electrostatic Capacitive Touch Sensors
+K touch sensor, level sensor
+F http://www.onsemi.com/PowerSolutions/product.do?id=LC717A30UJ
+$ENDCMP
+#
+$CMP MC74HC73A
+D Dual JK Flip Flop with Reset
+K JK Flip Flop
+F http://www.onsemi.com/pub/Collateral/MC74HC73-D.PDF
+$ENDCMP
+#
+$CMP NCL30167
+D Power Factor Corrected Boost Switching Regulator for Phase-Cut Dimming LED Lighting Driver
+K KED Driver, phase-cut dimming, boost, PFC
+F http://www.onsemi.com/pub/Collateral/NCL30167-D.PDF
+$ENDCMP
+#
+$CMP NCL30186
+D AC-DC Power Factor Corrected Quasi-Resonant Primary Side Current Mode Controller for LED Lighting with Smart Analog/Dimming Capability
+K LED Driver, PFC, PSR, QrM, dimming, PWM
+F http://www.onsemi.com/pub/Collateral/NCL30186-D.PDF
+$ENDCMP
+#
+$CMP NCL30188
+D Power Factor Corrected Quasi-Resonant Primary Side Current Mode Controller for LED Lighting
+K LED Driver, QrM, PSR, CC
+F http://www.onsemi.com/pub/Collateral/NCL30188-D.PDF
+$ENDCMP
+#
+$CMP NCL30288
+D Power Factor Corrected Quasi-Resonant Primary Side Current Mode Controller for LED Lighting
+K LED Driver, PFC, PSR, CC
+F http://www.onsemi.com/pub/Collateral/NCL30288-D.PDF
+$ENDCMP
+#
 $CMP NCP45560
 D - Controlled Load Switch with Low Ron
 K load switch
