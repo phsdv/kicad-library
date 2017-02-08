@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP AMIS30623
+D Micro-stepping Motor Driver
+K stepper motor driver
+F http://www.onsemi.com/pub_link/Collateral/AMIS-30623-D.PDF
+$ENDCMP
+#
 $CMP CM1213A-01SO
 D Single Channel ESD Protection Array
 K ESD Protection diodes transient suppressor
