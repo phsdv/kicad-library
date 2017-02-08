@@ -18,6 +18,24 @@ K JK Flip Flop
 F http://www.onsemi.com/pub/Collateral/MC74HC73-D.PDF
 $ENDCMP
 #
+$CMP NCL30105
+D Constant Off Time PWM Current-Mode Controller for LED Applications
+K LED driver, CCM, constant-off, controller 
+F http://www.onsemi.com/pub_link/Collateral/NCL30105-D.PDF
+$ENDCMP
+#
+$CMP NCL30160
+D 1.0A Constant-Current Buck Regulator for Driving High Power LEDs
+K hysteretic buck LED driver integrated-switch 
+F http://www.onsemi.com/pub_link/Collateral/NCL30160-D.PDF
+$ENDCMP
+#
+$CMP NCL30161
+D Constant-Current Buck Regulator for Driving High Power LEDs
+K hysteretic Buck LED controller
+F http://www.onsemi.com/pub_link/Collateral/NCL30161-D.PDF
+$ENDCMP
+#
 $CMP NCL30167
 D Power Factor Corrected Boost Switching Regulator for Phase-Cut Dimming LED Lighting Driver
 K KED Driver, phase-cut dimming, boost, PFC
@@ -42,10 +60,70 @@ K LED Driver, PFC, PSR, CC
 F http://www.onsemi.com/pub/Collateral/NCL30288-D.PDF
 $ENDCMP
 #
+$CMP NCP1060xxG
+D High-Voltage Switcher for Low Power Offline SMPS
+K  fixed-frequency  current-mode controller  700V-integrated-MOSFET
+F http://www.onsemi.com/pub_link/Collateral/NCP1060-D.PDF
+$ENDCMP
+#
+$CMP NCP1060xxR2G
+D High-Voltage Switcher for Low Power Offline SMPS
+K fixed-frequency  current-mode controller 700V-MOSFET.
+F http://www.onsemi.com/pub_link/Collateral/NCP1060-D.PDF
+$ENDCMP
+#
+$CMP NCP1063xxG
+D High-Voltage Switcher for Low Power Offline SMPS
+K  fixed-frequency current-mode controller 700V-MOSFET
+F http://www.onsemi.com/pub_link/Collateral/NCP1060-D.PDF
+$ENDCMP
+#
+$CMP NCP1063xxR2G
+D High-Voltage Switcher for Low Power Offline SMPS
+K  fixed-frequency current-mode controller 700V-MOSFET
+F http://www.onsemi.com/pub_link/Collateral/NCP1060-D.PDF
+$ENDCMP
+#
+$CMP NCP1360
+D Low Power Offline CCCV PSR 
+K CC CV PSR current-mode HV-startup AC/DC
+F http://www.onsemi.com/pub_link/Collateral/NCP1360-D.PDF
+$ENDCMP
+#
+$CMP NCP1365
+D low power CCCV offline PSR
+K AC/DC Flyback CCCV PSR current-mode  
+F http://www.onsemi.com/pub_link/Collateral/NCP1360-D.PDF
+$ENDCMP
+#
+$CMP NCP1370
+D Dimmable Quasi-Resonant Primary Side Current-Mode Controller for LED TV Backlight
+K QrM dimmable LED driver backlight PSR
+F http://www.onsemi.com/PowerSolutions/product.do?id=NCP1370
+$ENDCMP
+#
+$CMP NCP1602
+D Enhanced, High-Efficiency Power Factor Controller
+K PFC Valley-Snchronized-Frequency-Fold−back VSFF
+F http://www.onsemi.com/pub_link/Collateral/NCP1602-D.PDF
+$ENDCMP
+#
+$CMP NCP1611
+D Enhanced, High-Efficiency Power Factor Controller
+K PFC Current-Controlled-Frequency-Foldback CCFF
+F http://www.onsemi.com/pub_link/Collateral/NCP1611-D.PDF
+$ENDCMP
+#
 $CMP NCP45560
 D - Controlled Load Switch with Low Ron
 K load switch
 F http://www.onsemi.com/pub/Collateral/NCP45560-D.PDF
+$ENDCMP
+#
+$CMP NCS36000
+D Passive Infrared Detector Controller (PIR)
+K PIR controller 
+F http://www.onsemi.com/PowerSolutions/product.do?id=NCS36000
 $ENDCMP
 #
 $CMP NUP2202
